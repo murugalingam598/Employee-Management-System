@@ -42,6 +42,7 @@ employee-management-system/
 
 👨‍💻 Author
 
+Murugalingam A
 Josin V
 B.E. Computer Science and Engineering
 
